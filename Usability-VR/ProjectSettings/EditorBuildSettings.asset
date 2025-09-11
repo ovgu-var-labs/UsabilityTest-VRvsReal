@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Tupfer_Nadel/High_Raum_Con_4.unity
+    guid: 115660a7e11328643aa5f1f4fe5fd1f9
+  - enabled: 0
+    path: Assets/Scenes/Tupfer_Nadel/High_Raum_Getr_2.unity
+    guid: 434f3d2df2381574c9bfc44befc9bcf7
+  - enabled: 1
+    path: Assets/Scenes/Tupfer_Nadel/High_Raum_haende_2.unity
+    guid: 9779ca08d5e3c34458373e8912ce9998
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 6c82b2a473ef07046a3db82816eb082e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e65d8cfcfffe3b043b8e432353eab703, type: 2}

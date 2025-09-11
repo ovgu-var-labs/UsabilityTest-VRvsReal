@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.virtual_intervention_room.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Students\\Documents\\Marvin\\Virtual_Intervention_Room\\High_Tupfer_Nadel\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Virtual_Intervention_Room [Testing]"
+        }
+      }
+    }
+  ]
+}
