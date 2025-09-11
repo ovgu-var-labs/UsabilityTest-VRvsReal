@@ -2,7 +2,7 @@
 
 ## ⚠️ Git LFS Required
 
-This repository uses [Git Large File Storage (Git LFS)](https://git-lfs.github.com/) to manage large files (e.g., videos, datasets, binaries).
+This repository uses [Git Large File Storage (Git LFS)](https://git-lfs.github.com/) to manage large files (e.g. 3D Models, etc).
 
 ### 📦 Setup Instructions
 
@@ -22,6 +22,7 @@ To properly clone and work with this repository, please follow these steps:
    After cloning, run:
    ```bash
    git lfs pull
+   
    This ensures all large files are downloaded correctly. Without Git LFS, you’ll only see placeholder pointer files instead of the actual content.
 
 ## Getting started
