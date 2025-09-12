@@ -1,6 +1,6 @@
 # Virtual Intervention Room
 
-A digital twin of an intervention room created with Unity. The room has been prepared to perform VR usability tests for the operation of an MRT machine using a gesture based system.
+A digital twin of an intervention room created with Unity. The room has been prepared to perform VR usability tests for the operation of an MRI Scanner using a gesture based system.
 
 ## ⚠️ Git LFS Required
 
