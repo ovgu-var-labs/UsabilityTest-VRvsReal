@@ -2,6 +2,8 @@
 
 A digital twin of an intervention room created with Unity. The room has been prepared to perform VR usability tests for the operation of an MRI Scanner using a gesture based system.
 
+Base of the paper "Testing before Building? Strengths and Weaknesses of VR-Based Usability Testing of a Gesture Interface"
+
 ## ⚠️ Git LFS Required
 
 This repository uses [Git Large File Storage (Git LFS)](https://git-lfs.github.com/) to manage large files (e.g. 3D Models, etc).
